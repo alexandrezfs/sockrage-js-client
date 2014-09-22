@@ -5,6 +5,6 @@ sockrage-js-client
 
 This package also contains Sockrage AngularJS client.
 
-To unserstand how to user Sockrage client library, please refer to this README :
+To unserstand how to use Sockrage client library, please refer to this README :
 
 https://github.com/ultrasupernew/sockrage/blob/master/README.md
