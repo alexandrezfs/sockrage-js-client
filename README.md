@@ -1,7 +1,9 @@
 sockrage-js-client
 ==================
 
-[JS] Javascript library to use with a Sockrage instance
+[JS/ANGULAR] Javascript library to use with a Sockrage instance
+
+This package also contains Sockrage AngularJS client.
 
 To unserstand how to user Sockrage client library, please refer to this README :
 
